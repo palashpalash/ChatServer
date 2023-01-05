@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div id="heading" align="center"
-		style="background-color: skyblue; position: absolute; top: 2px; left: 332px; height: 50px; width: 1000px; z-index: 1">
+		style="background-color: red; position: absolute; top: 2px; left: 332px; height: 50px; width: 1000px; z-index: 1">
 		<form id="Login" action="LogIn" method="post"
 			onsubmit=" return logInformSubmit();">
 			<input type="text" id="username" name="username"
