@@ -71,7 +71,8 @@
     <version>1.1.1</version>
 </dependency>
 <!-- Ami palash -->
-<!--   valo chele -->		
+<!--   valo chele -->	
+		<!--  masti kor -->
 	</dependencies>
 
 	<build>
