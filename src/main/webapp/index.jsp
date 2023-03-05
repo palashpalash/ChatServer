@@ -23,7 +23,7 @@
 	</div>
 
 	<div id="registration"
-		style="background-color: purple; position: absolute; top: 150px; left: 500px; height: 500px; width: 700px; z-index: 1"></div>
+		style="background-color: pink; position: absolute; top: 150px; left: 500px; height: 500px; width: 700px; z-index: 1"></div>
 		<script
 		src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 	<script language="javascript">
